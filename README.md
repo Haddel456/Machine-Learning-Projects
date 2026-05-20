@@ -48,16 +48,16 @@ The goal of this repository is to demonstrate practical implementation of machin
 git clone https://github.com/Haddel456/Machine-Learning-Projects.git
 ```
 
-### to run the breast_cancer
-## 2. Navigate to a project folder
+### To run the breast_cancer
+- 2. Navigate to a project folder
 
 ```bash
     cd breast_cancer_analysis
 ```
 
 
-### to run the entiment_analysis
-## 2. Navigate to a project folder
+### To run the entiment_analysis
+- 2. Navigate to a project folder
 ```bash
     cd sentiment_analysis_twitter
 ```
